@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>transit_isochrone</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-118.2935089,33.7057928 -118.301633,33.711246 -118.385296,33.8204609 -118.4490571,33.9583894 -118.3082395,34.1017453 -118.25323,34.104332 -118.238221,34.104659 -118.180317,34.096046 -118.0782997,34.0181185 -118.0770322,34.0167507 -118.0769729,34.0166136 -118.0464438,33.9403 -118.0445418,33.9023617 -118.0459223,33.8987049 -118.0466062,33.8973781 -118.1843493,33.7663347 -118.1856229,33.7653104 -118.2865107,33.7074456 -118.2879616,33.7068157 -118.2915304,33.7060159 -118.2935089,33.7057928</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-118.280153,33.783093 -118.280489,33.783128 -118.292021,33.791135 -118.3964463,33.9015138 -118.3994159,33.9164016 -118.3995467,33.9194379 -118.3994227,33.9236173 -118.3986907,33.9290526 -118.3960956,33.9457574 -118.279621,34.033376 -118.267967,34.040467 -118.2197503,34.0251436 -118.113167,33.954638 -118.104524,33.94095 -118.0987512,33.9280251 -118.0943344,33.9171516 -118.189265,33.7889528 -118.280153,33.783093</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-118.265426,33.885721 -118.291941,33.923421 -118.2957253,33.9309693 -118.2913324,33.9461246 -118.256633,33.981896 -118.2564447,33.9820667 -118.188951,33.942254 -118.224249,33.89749 -118.265426,33.885721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
